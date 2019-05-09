@@ -1,0 +1,8 @@
+shift = remove obj from front
+unshfit = add obj in front
+
+pop = remove obj from back
+push = add obj to he back
+
+splice = add obj to any location,
+         remove obj from any location

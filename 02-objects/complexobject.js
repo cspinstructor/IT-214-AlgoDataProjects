@@ -1,12 +1,14 @@
 var student = {
-  firstname: 'Mike', // key : value
-  lastname: 'Lee',
+  name: {
+    firstname: 'Mike',
+    lastname: 'Lee'
+  },
   age: 18,
   ic: 123456
 };
 
-console.log('firstname: ', student.firstname);
-console.log('lastname: ', student.lastname);
+console.log('firstname: ', student.name.firstname);
+console.log('lastname: ', student.name.lastname);
 console.log('age: ', student.age);
 console.log('ic: ', student.ic);
 
