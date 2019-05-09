@@ -6,3 +6,4 @@ push = add obj to he back
 
 splice = add obj to any location,
          remove obj from any location
+slice = same as splice but leave original array unchanged.
